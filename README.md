@@ -24,4 +24,15 @@ This repo contains three parts:
 
 This project provides a perspective of looking into the study methods in the hope of being useful for those who want to get some advise based on the analysis.
 
-You should not use the collected data for commercial use. Otherwise, you will violate the regulation of CC-BY-NC-SA license. The holder of this repository preserve the right for making this repository private and limit the distribution of this repository for any futher personal use.
+You should not use the collected data for commercial use. Otherwise, you will violate the regulation of CC-BY-NC-SA license. The holder of this repository preserve the right for making this repository private and limit the distribution of this repository for any further personal use.
+
+> (LC)No.0091
+(LC)No.0092
+(LC)No.0093
+(LC)No.0094
+(LC)No.0095
+(LC)No.0096
+(LC)No.0097
+(LC)No.0098
+(LC)No.0113
+(LC)No.0118
