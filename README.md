@@ -21,8 +21,8 @@ This repo contains three parts:
 1. **Procedure** [report](https://github.com/LogCreative/PlanStormReports/blob/master/01%20Procedure/%E6%9A%B4%E9%A3%8E%E8%AE%A1%E5%88%92%E6%8A%80%E6%9C%AF%E6%80%A7%E6%8A%A5%E5%91%8A.pdf) This part contains the full procedure of this statistic project. Mainly about social management and system design.
 2. **Overview** [report](https://github.com/LogCreative/PlanStormReports/blob/master/02%20Overview/Overview.pdf) The quantity of homework for secondary school students. Mainly about data summation and primary analysis for conveying direction at that time being.
 3. **Analysis** [report](https://github.com/LogCreative/PlanStormReports/blob/master/03%20Analysis/PSPaper.pdf) The relationship between the homework writing time and the result of exams for secondary school students. Mainly about data insight and high level conclusion. This is also the assignment of Probability and Statistics course.
-
-This project provides a perspective of looking into the study methods in the hope of being useful for those who want to get some advise based on the analysis.
+4. **Thoughts** [report](https://github.com/LogCreative/PlanStormReports/blob/master/04%20Thoughts/SocialProblem.pdf)
+This is the assignment essay of Social Problem in Contemporary China, which gives the comparison of town students and city students based on the analysis of Plan Storm.
 
 You should not use the collected data for commercial use. Otherwise, you will violate the regulation of CC-BY-NC-SA license. The holder of this repository preserve the right for making this repository private and limiting the distribution of this repository for any further personal use.
 
